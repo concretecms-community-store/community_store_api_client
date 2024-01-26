@@ -19,7 +19,7 @@
         "source": "https://github.com/concretecms-community-store/community_store_api_client"
     },
     "require": {
-        "php": ">= 8.1"
+        "php": ">= 7.4"
     },
     "autoload": {
         "psr-4": {
